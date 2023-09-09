@@ -21,6 +21,13 @@ Iniciei os estudos em Desenvolvimento de Software em 2023, nos cursos de *BackEn
 
 ![Status GitHub](https://github-readme-stats.vercel.app/api?username=DavidG-Silva&show_icons=true&rank_icon=github&theme=neon&hide_border=true&hide=contribs,issues&show=reviews&locale=pt-br)
 
+## Top repositories
+Fique de olho no Projeto Universo VinteUm, página de conteúdos para o público com Síndrome de Down e Deficiência Intelectual.
+
+Toda e qualquer contribuição é bem-vinda!
+
+[![Projeto Universo VinteUm](https://github-readme-stats.vercel.app/api/pin/?username=DavidG-Silva&repo=UniversoVinteUm&show_owner=true&theme=neon&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DavidG-Silva/UniversoVinteUm))
+
 
 
 
