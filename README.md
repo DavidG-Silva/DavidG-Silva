@@ -17,7 +17,7 @@ Iniciei os estudos em Desenvolvimento de Software em 2023, nos cursos de *BackEn
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 
 
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidG-Silva&theme=neon&hide_border=true&custom_title=Principais%20linguagens)
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidG-Silva&theme=neon&hide_border=true&custom_title=Principais%20linguagens&layout=compact)
 
 ![Status GitHub](https://github-readme-stats.vercel.app/api?username=DavidG-Silva&show_icons=true&rank_icon=github&theme=neon&hide_border=true&hide=contribs,issues&show=reviews&locale=pt-br)
 
