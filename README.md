@@ -26,7 +26,7 @@ Fique de olho no Projeto Universo VinteUm, página de conteúdos para o público
 
 Toda e qualquer contribuição é bem-vinda!
 
-[![Projeto Universo VinteUm](https://github-readme-stats.vercel.app/api/pin/?username=DavidG-Silva&repo=UniversoVinteUm&show_owner=true&theme=neon&hide_border=true)](https://github.com/DavidG-Silva/UniversoVinteUm))
+[![Projeto Universo VinteUm](https://github-readme-stats.vercel.app/api/pin/?username=DavidG-Silva&repo=UniversoVinteUm&show_owner=true&theme=neon&hide_border=true)](https://github.com/DavidG-Silva/UniversoVinteUm)
 
 
 
