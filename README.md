@@ -3,7 +3,7 @@ Bem-vindo(a) ao meu perfil do GitHub!</h1>
 
 Meu nome é David Guilherme da Silva! Sou curitibano, **Desenvolvedor Full Stack** apaixonado por tecnologia e transformação social!
 
-Iniciei os estudos em Desenvolvimento de Software em 2023, nos cursos de *BackEnd* da [@cubosacademy](https://cubos.academy/) e *FrontEnd* da [@prozeducacaobr](https://prozeducacao.com.br/), onde estou evoluindo habilidades em Desenvolvimento Web, Node.js, Express, Banco de Dados e Controle de Versão de Códigos.
+Iniciei os estudos em Desenvolvimento de Software em 2023, nos cursos de *BackEnd* da [@cubosacademy](https://cubos.academy/) e *FrontEnd* da [@prozeducacaobr](https://prozeducacao.com.br/), onde evolui habilidades em Desenvolvimento Web, Node.js, Express, Banco de Dados e Controle de Versão de Códigos.
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgsilva/)
